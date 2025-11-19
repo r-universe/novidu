@@ -4,4 +4,4 @@
 	branch = HEAD
 [submodule "giniCI"]
 	path = giniCI
-	url = https://github.com/cran/giniCI
+	url = https://github.com/novidu/ginici
